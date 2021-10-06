@@ -16,24 +16,16 @@ conda create -n nrns python3.6
 conda activate nrns
 ```
 
-### Habitat and Other Dependencies
+### Install Habitat and Other Dependencies
 
-NRNS makes extensive use of the Habitat Simulator and Habitat-Lab developed by FAIR. You will first need to install both [Habitat-Sim](https://github.com/facebookresearch/habitat-sim) and [Habitat-Lab](https://github.com/facebookresearch/habitat-lab/tree/v0.1.5). If you are using conda, Habitat-Sim can easily be installed with:
+NRNS makes extensive use of the Habitat Simulator and Habitat-Lab developed by FAIR. You will first need to install both [Habitat-Sim](https://github.com/facebookresearch/habitat-sim) and [Habitat-Lab](https://github.com/facebookresearch/habitat-lab). 
+
+Please find the instructions to install habitat [here](https://github.com/facebookresearch/habitat-lab#installation)
+
+If you are using conda, Habitat-Sim can easily be installed with
 
 ```bash
 conda install -c aihabitat -c conda-forge habitat-sim headless
-```
-
-Otherwise, follow the Habitat-Sim [installation instructions](https://github.com/facebookresearch/habitat-sim#installation). Then install Habitat-Lab version `0.1.5`:
-
-```bash
-git clone --branch v0.1.5 git@github.com:facebookresearch/habitat-lab.git
-cd habitat-lab
-# installs both habitat and habitat_baselines
-python -m pip install -r requirements.txt
-python -m pip install -r habitat_baselines/rl/requirements.txt
-python -m pip install -r habitat_baselines/rl/ddppo/requirements.txt
-python setup.py develop --all
 ```
 
 We recommend downloading the test scenes and running the example script as described [here](https://github.com/facebookresearch/habitat-lab/blob/v0.1.5/README.md#installation) to ensure the installation of Habitat-Sim and Habitat-Lab was successful. Now you can clone this repository and install the rest of the dependencies:
@@ -44,9 +36,11 @@ cd NRNS
 python -m pip install -r requirements.txt
 ```
 
-### Data
+### Download Data
 
 Like Habitat-Lab, we expect a `data` folder (or symlink) with a particular structure in the top-level directory of this project. We evaluate our agents on Matterport3D (MP3D) and Gibson scene reconstructions.
+
+
 
 #### Image-Nav Test Episodes
 The image-nav test epsiodes used in this paper for MP3D and Gibson can be found [here.](https://meerahahn.github.io/nrns/data) These were used to test all baselines and NRNS.
@@ -80,6 +74,3 @@ If you use NRNS in your research, please cite the following [paper](https://arxi
   year={2021}
  }
 ```
-
-
-
