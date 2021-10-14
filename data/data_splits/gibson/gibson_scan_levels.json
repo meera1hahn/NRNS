@@ -1,0 +1,2290 @@
+{
+   "Adrian": {
+      "area": 393.795,
+      "floors": 4
+   },
+   "Airport": {
+      "area": 581.725,
+      "floors": 4
+   },
+   "Akiak": {
+      "area": 123.683,
+      "floors": 1
+   },
+   "Albertville": {
+      "area": 266.125,
+      "floors": 4
+   },
+   "Aldine": {
+      "area": 287.108,
+      "floors": 3
+   },
+   "Aldrich": {
+      "area": 915.082,
+      "floors": 4
+   },
+   "Alfred": {
+      "area": 850.512,
+      "floors": 3
+   },
+   "Allensville": {
+      "area": 80.306,
+      "floors": 1
+   },
+   "Almena": {
+      "area": 170.554,
+      "floors": 1
+   },
+   "Almota": {
+      "area": 414.056,
+      "floors": 4
+   },
+   "Aloha": {
+      "area": 111.735,
+      "floors": 2
+   },
+   "Alstown": {
+      "area": 426.819,
+      "floors": 4
+   },
+   "American": {
+      "area": 583.318,
+      "floors": 3
+   },
+   "Anaheim": {
+      "area": 299.527,
+      "floors": 4
+   },
+   "Ancor": {
+      "area": 159.084,
+      "floors": 4
+   },
+   "Andover": {
+      "area": 674.595,
+      "floors": 4
+   },
+   "Angiola": {
+      "area": 18.153,
+      "floors": 1
+   },
+   "Annawan": {
+      "area": 75.039,
+      "floors": 1
+   },
+   "Annona": {
+      "area": 359.046,
+      "floors": 3
+   },
+   "Anthoston": {
+      "area": 477.51,
+      "floors": 1
+   },
+   "Ackermanville": {
+      "area": 499.522,
+      "floors": 1
+   },
+   "Adairsville": {
+      "area": 232.438,
+      "floors": 5
+   },
+   "Apache": {
+      "area": 1024.699,
+      "floors": 4
+   },
+   "Applewold": {
+      "area": 187.518,
+      "floors": 4
+   },
+   "Arbutus": {
+      "area": 53.595,
+      "floors": 1
+   },
+   "Archer": {
+      "area": 281.014,
+      "floors": 4
+   },
+   "Arkansaw": {
+      "area": 385.425,
+      "floors": 4
+   },
+   "Arona": {
+      "area": 62.098,
+      "floors": 1
+   },
+   "Artois": {
+      "area": 100.399,
+      "floors": 1
+   },
+   "Ashport": {
+      "area": 573.641,
+      "floors": 3
+   },
+   "Assinippi": {
+      "area": 365.543,
+      "floors": 4
+   },
+   "Athens": {
+      "area": 440.851,
+      "floors": 4
+   },
+   "Auburn": {
+      "area": 430.311,
+      "floors": 1
+   },
+   "Aulander": {
+      "area": 95.115,
+      "floors": 2
+   },
+   "Avonia": {
+      "area": 59.6,
+      "floors": 1
+   },
+   "Azusa": {
+      "area": 507.047,
+      "floors": 3
+   },
+   "Badger": {
+      "area": 144.427,
+      "floors": 1
+   },
+   "Ballantine": {
+      "area": 1153.639,
+      "floors": 3
+   },
+   "Ballou": {
+      "area": 533.456,
+      "floors": 3
+   },
+   "Baneberry": {
+      "area": 660.51,
+      "floors": 3
+   },
+   "Barahona": {
+      "area": 57.115,
+      "floors": 1
+   },
+   "Barboursville": {
+      "area": 61.422,
+      "floors": 1
+   },
+   "Barranquitas": {
+      "area": 476.868,
+      "floors": 3
+   },
+   "Bautista": {
+      "area": 305.479,
+      "floors": 4
+   },
+   "Beach": {
+      "area": 38.23,
+      "floors": 1
+   },
+   "Beechwood": {
+      "area": 464.624,
+      "floors": 3
+   },
+   "Bellemeade": {
+      "area": 70.337,
+      "floors": 1
+   },
+   "Bellwood": {
+      "area": 657.554,
+      "floors": 3
+   },
+   "Belpre": {
+      "area": 584.831,
+      "floors": 3
+   },
+   "Benevolence": {
+      "area": 176.734,
+      "floors": 4
+   },
+   "Benicia": {
+      "area": 83.084,
+      "floors": 1
+   },
+   "Bertram": {
+      "area": 172.167,
+      "floors": 1
+   },
+   "Bethlehem": {
+      "area": 603.61,
+      "floors": 4
+   },
+   "Bettendorf": {
+      "area": 4371.903,
+      "floors": 6
+   },
+   "Biltmore": {
+      "area": 733.268,
+      "floors": 1
+   },
+   "Blackstone": {
+      "area": 228.077,
+      "floors": 1
+   },
+   "Blenheim": {
+      "area": 192.317,
+      "floors": 2
+   },
+   "Bohemia": {
+      "area": 394.14,
+      "floors": 3
+   },
+   "Bolton": {
+      "area": 61.868,
+      "floors": 1
+   },
+   "Bonesteel": {
+      "area": 272.066,
+      "floors": 3
+   },
+   "Bonfield": {
+      "area": 86.161,
+      "floors": 1
+   },
+   "Bonnie": {
+      "area": 799.666,
+      "floors": 4
+   },
+   "Booth": {
+      "area": 209.756,
+      "floors": 4
+   },
+   "Bountiful": {
+      "area": 158.824,
+      "floors": 3
+   },
+   "Bowlus": {
+      "area": 657.858,
+      "floors": 4
+   },
+   "Bowmore": {
+      "area": 1067.245,
+      "floors": 5
+   },
+   "Branford": {
+      "area": 13.291,
+      "floors": 1
+   },
+   "Braxton": {
+      "area": 741.691,
+      "floors": 4
+   },
+   "Bremerton": {
+      "area": 122.66,
+      "floors": 1
+   },
+   "Brentsville": {
+      "area": 151.865,
+      "floors": 1
+   },
+   "Brevort": {
+      "area": 43.882,
+      "floors": 1
+   },
+   "Brewton": {
+      "area": 496.904,
+      "floors": 3
+   },
+   "Brinnon": {
+      "area": 1171.902,
+      "floors": 5
+   },
+   "Broadwell": {
+      "area": 457.211,
+      "floors": 3
+   },
+   "Broseley": {
+      "area": 782.684,
+      "floors": 4
+   },
+   "Brown": {
+      "area": 809.315,
+      "floors": 5
+   },
+   "Browntown": {
+      "area": 837.527,
+      "floors": 4
+   },
+   "Burien": {
+      "area": 485.288,
+      "floors": 4
+   },
+   "Bushong": {
+      "area": 3130.477,
+      "floors": 2
+   },
+   "Byers": {
+      "area": 217.218,
+      "floors": 4
+   },
+   "Cabin": {
+      "area": 155.706,
+      "floors": 1
+   },
+   "Calavo": {
+      "area": 239.244,
+      "floors": 1
+   },
+   "Callicoon": {
+      "area": 581.598,
+      "floors": 3
+   },
+   "Calmar": {
+      "area": 337.188,
+      "floors": 3
+   },
+   "Cantwell": {
+      "area": 107.582,
+      "floors": 1
+   },
+   "Capistrano": {
+      "area": 261.927,
+      "floors": 3
+   },
+   "Carneiro": {
+      "area": 130.541,
+      "floors": 3
+   },
+   "Carpendale": {
+      "area": 225.156,
+      "floors": 1
+   },
+   "Carpio": {
+      "area": 70.216,
+      "floors": 1
+   },
+   "Caruthers": {
+      "area": 129.048,
+      "floors": 1
+   },
+   "Cashel": {
+      "area": 223.371,
+      "floors": 3
+   },
+   "Cason": {
+      "area": 59.6,
+      "floors": 1
+   },
+   "Castor": {
+      "area": 151.967,
+      "floors": 3
+   },
+   "Castroville": {
+      "area": 410.224,
+      "floors": 3
+   },
+   "Cauthron": {
+      "area": 628.857,
+      "floors": 3
+   },
+   "Cayuse": {
+      "area": 465.267,
+      "floors": 4
+   },
+   "Cebolla": {
+      "area": 636.509,
+      "floors": 4
+   },
+   "Channel": {
+      "area": 1234.302,
+      "floors": 5
+   },
+   "Checotah": {
+      "area": 64.944,
+      "floors": 2
+   },
+   "Chesaning": {
+      "area": 3351.796,
+      "floors": 3
+   },
+   "Chesterbrook": {
+      "area": 551.319,
+      "floors": 3
+   },
+   "Chilhowie": {
+      "area": 398.26,
+      "floors": 3
+   },
+   "Chiloquin": {
+      "area": 621.968,
+      "floors": 3
+   },
+   "Chireno": {
+      "area": 152.69,
+      "floors": 1
+   },
+   "Chrisney": {
+      "area": 123.959,
+      "floors": 3
+   },
+   "Churchton": {
+      "area": 275.265,
+      "floors": 4
+   },
+   "Circleville": {
+      "area": 109.787,
+      "floors": 2
+   },
+   "Cisne": {
+      "area": 230.839,
+      "floors": 3
+   },
+   "Clairton": {
+      "area": 111.607,
+      "floors": 2
+   },
+   "Clarkridge": {
+      "area": 920.049,
+      "floors": 4
+   },
+   "Clive": {
+      "area": 594.258,
+      "floors": 5
+   },
+   "Cobalt": {
+      "area": 324.923,
+      "floors": 3
+   },
+   "Cochranton": {
+      "area": 278.634,
+      "floors": 4
+   },
+   "Codell": {
+      "area": 526.822,
+      "floors": 3
+   },
+   "Coeburn": {
+      "area": 104.971,
+      "floors": 2
+   },
+   "Coffeen": {
+      "area": 286.735,
+      "floors": 5
+   },
+   "Cohoes": {
+      "area": 521.686,
+      "floors": 3
+   },
+   "Cokeville": {
+      "area": 103.567,
+      "floors": 2
+   },
+   "Colebrook": {
+      "area": 87.088,
+      "floors": 1
+   },
+   "Collierville": {
+      "area": 171.335,
+      "floors": 4
+   },
+   "Connellsville": {
+      "area": 64.072,
+      "floors": 1
+   },
+   "Connoquenessing": {
+      "area": 568.497,
+      "floors": 4
+   },
+   "Convoy": {
+      "area": 19.183,
+      "floors": 1
+   },
+   "Cooperstown": {
+      "area": 40.268,
+      "floors": 1
+   },
+   "Copemish": {
+      "area": 411.203,
+      "floors": 3
+   },
+   "Corder": {
+      "area": 99.565,
+      "floors": 1
+   },
+   "Cornville": {
+      "area": 360.365,
+      "floors": 3
+   },
+   "Coronado": {
+      "area": 321.079,
+      "floors": 1
+   },
+   "Corozal": {
+      "area": 577.136,
+      "floors": 3
+   },
+   "Cosmos": {
+      "area": 371.618,
+      "floors": 3
+   },
+   "Cottonport": {
+      "area": 776.583,
+      "floors": 3
+   },
+   "Couderay": {
+      "area": 214.625,
+      "floors": 4
+   },
+   "Country": {
+      "area": 730.187,
+      "floors": 3
+   },
+   "Cousins": {
+      "area": 660.449,
+      "floors": 4
+   },
+   "Crandon": {
+      "area": 298.35,
+      "floors": 3
+   },
+   "Creede": {
+      "area": 81.331,
+      "floors": 1
+   },
+   "Crookston": {
+      "area": 1135.121,
+      "floors": 3
+   },
+   "Crugers": {
+      "area": 2019.115,
+      "floors": 4
+   },
+   "Culbertson": {
+      "area": 6.34,
+      "floors": 1
+   },
+   "Cullison": {
+      "area": 590.424,
+      "floors": 4
+   },
+   "Cutlerville": {
+      "area": 776.972,
+      "floors": 3
+   },
+   "Dalcour": {
+      "area": 177.415,
+      "floors": 1
+   },
+   "Dansville": {
+      "area": 457.536,
+      "floors": 4
+   },
+   "Darden": {
+      "area": 444.113,
+      "floors": 4
+   },
+   "Darnestown": {
+      "area": 444.709,
+      "floors": 1
+   },
+   "Darrtown": {
+      "area": 335.329,
+      "floors": 4
+   },
+   "Dauberville": {
+      "area": 265.929,
+      "floors": 3
+   },
+   "Deatsville": {
+      "area": 932.826,
+      "floors": 4
+   },
+   "Dedham": {
+      "area": 593.908,
+      "floors": 3
+   },
+   "Deemston": {
+      "area": 366.947,
+      "floors": 3
+   },
+   "Delton": {
+      "area": 86.226,
+      "floors": 1
+   },
+   "Denmark": {
+      "area": 40.796,
+      "floors": 1
+   },
+   "Destin": {
+      "area": 95.079,
+      "floors": 1
+   },
+   "Divide": {
+      "area": 70.734,
+      "floors": 1
+   },
+   "Donaldson": {
+      "area": 1178.619,
+      "floors": 4
+   },
+   "Dryville": {
+      "area": 87.753,
+      "floors": 1
+   },
+   "Duarte": {
+      "area": 557.685,
+      "floors": 4
+   },
+   "Duluth": {
+      "area": 1254.255,
+      "floors": 4
+   },
+   "Dunmor": {
+      "area": 90.056,
+      "floors": 1
+   },
+   "Eagan": {
+      "area": 326.346,
+      "floors": 4
+   },
+   "Eagerville": {
+      "area": 48.031,
+      "floors": 1
+   },
+   "Eastville": {
+      "area": 121.44,
+      "floors": 1
+   },
+   "Edgemere": {
+      "area": 23.62,
+      "floors": 2
+   },
+   "Edson": {
+      "area": 484.365,
+      "floors": 3
+   },
+   "Ellaville": {
+      "area": 396.693,
+      "floors": 3
+   },
+   "Elmira": {
+      "area": 42.795,
+      "floors": 1
+   },
+   "Elton": {
+      "area": 303.378,
+      "floors": 1
+   },
+   "Emmaus": {
+      "area": 871.08,
+      "floors": 3
+   },
+   "Espanola": {
+      "area": 62.127,
+      "floors": 1
+   },
+   "Eudora": {
+      "area": 37.079,
+      "floors": 1
+   },
+   "Euharlee": {
+      "area": 67.995,
+      "floors": 1
+   },
+   "Everton": {
+      "area": 266.079,
+      "floors": 3
+   },
+   "Ewansville": {
+      "area": 335.837,
+      "floors": 3
+   },
+   "Ewell": {
+      "area": 767.007,
+      "floors": 4
+   },
+   "Experiment": {
+      "area": 258.674,
+      "floors": 3
+   },
+   "Fedora": {
+      "area": 909.584,
+      "floors": 5
+   },
+   "Fishersville": {
+      "area": 477.047,
+      "floors": 3
+   },
+   "Fitchburg": {
+      "area": 319.542,
+      "floors": 3
+   },
+   "Fleming": {
+      "area": 258.626,
+      "floors": 4
+   },
+   "Fonda": {
+      "area": 560.051,
+      "floors": 4
+   },
+   "Forkland": {
+      "area": 300.418,
+      "floors": 4
+   },
+   "Foyil": {
+      "area": 90.196,
+      "floors": 2
+   },
+   "Frankfort": {
+      "area": 345.828,
+      "floors": 3
+   },
+   "Frankton": {
+      "area": 1018.387,
+      "floors": 1
+   },
+   "Fredericksburg": {
+      "area": 149.214,
+      "floors": 1
+   },
+   "Freedom": {
+      "area": 642.418,
+      "floors": 3
+   },
+   "Frierson": {
+      "area": 288.293,
+      "floors": 3
+   },
+   "Frontenac": {
+      "area": 506.124,
+      "floors": 4
+   },
+   "Funkstown": {
+      "area": 629.038,
+      "floors": 3
+   },
+   "Galatia": {
+      "area": 76.024,
+      "floors": 1
+   },
+   "Gasburg": {
+      "area": 62.01,
+      "floors": 1
+   },
+   "Gastonia": {
+      "area": 330.179,
+      "floors": 3
+   },
+   "Gaylord": {
+      "area": 59.25,
+      "floors": 1
+   },
+   "German": {
+      "area": 1050.351,
+      "floors": 3
+   },
+   "Germfask": {
+      "area": 43.875,
+      "floors": 1
+   },
+   "Gilbert": {
+      "area": 221.741,
+      "floors": 3
+   },
+   "Gladstone": {
+      "area": 337.942,
+      "floors": 4
+   },
+   "Glassboro": {
+      "area": 1089.73,
+      "floors": 2
+   },
+   "Glenmoor": {
+      "area": 448.802,
+      "floors": 3
+   },
+   "Globe": {
+      "area": 359.482,
+      "floors": 4
+   },
+   "Gloria": {
+      "area": 348.101,
+      "floors": 3
+   },
+   "Gluck": {
+      "area": 74.119,
+      "floors": 1
+   },
+   "Gluek": {
+      "area": 740.584,
+      "floors": 7
+   },
+   "Goffs": {
+      "area": 482.09,
+      "floors": 3
+   },
+   "Goodfield": {
+      "area": 348.422,
+      "floors": 4
+   },
+   "Goodview": {
+      "area": 104.041,
+      "floors": 1
+   },
+   "Goodwine": {
+      "area": 285.005,
+      "floors": 3
+   },
+   "Goodyear": {
+      "area": 367.827,
+      "floors": 4
+   },
+   "Gough": {
+      "area": 918.933,
+      "floors": 5
+   },
+   "Grace": {
+      "area": 1303.692,
+      "floors": 3
+   },
+   "Graceville": {
+      "area": 359.458,
+      "floors": 3
+   },
+   "Gracey": {
+      "area": 1958.748,
+      "floors": 1
+   },
+   "Grainola": {
+      "area": 2363.378,
+      "floors": 3
+   },
+   "Grangeville": {
+      "area": 376.558,
+      "floors": 4
+   },
+   "Grantsville": {
+      "area": 547.068,
+      "floors": 4
+   },
+   "Grassy": {
+      "area": 1626.834,
+      "floors": 3
+   },
+   "Gratz": {
+      "area": 861.946,
+      "floors": 1
+   },
+   "Gravelly": {
+      "area": 530.688,
+      "floors": 3
+   },
+   "Greigsville": {
+      "area": 43.603,
+      "floors": 1
+   },
+   "Grigston": {
+      "area": 67.84,
+      "floors": 1
+   },
+   "Haaswood": {
+      "area": 537.735,
+      "floors": 5
+   },
+   "Hacienda": {
+      "area": 437.136,
+      "floors": 3
+   },
+   "Hainesburg": {
+      "area": 275.235,
+      "floors": 3
+   },
+   "Halfway": {
+      "area": 185.459,
+      "floors": 3
+   },
+   "Hallettsville": {
+      "area": 670.759,
+      "floors": 3
+   },
+   "Hambleton": {
+      "area": 67.901,
+      "floors": 1
+   },
+   "Hammon": {
+      "area": 608.869,
+      "floors": 3
+   },
+   "Hanson": {
+      "area": 343.461,
+      "floors": 4
+   },
+   "Harkeyville": {
+      "area": 1374.661,
+      "floors": 3
+   },
+   "Harrellsville": {
+      "area": 61.215,
+      "floors": 1
+   },
+   "Hartline": {
+      "area": 727.746,
+      "floors": 3
+   },
+   "Hatfield": {
+      "area": 73.469,
+      "floors": 1
+   },
+   "Haxtun": {
+      "area": 57.408,
+      "floors": 1
+   },
+   "Haymarket": {
+      "area": 456.154,
+      "floors": 3
+   },
+   "Helix": {
+      "area": 61.886,
+      "floors": 1
+   },
+   "Helton": {
+      "area": 310.883,
+      "floors": 3
+   },
+   "Hendrix": {
+      "area": 659.372,
+      "floors": 3
+   },
+   "Hennepin": {
+      "area": 1955.06,
+      "floors": 3
+   },
+   "Hercules": {
+      "area": 119.162,
+      "floors": 1
+   },
+   "Herricks": {
+      "area": 273.683,
+      "floors": 1
+   },
+   "Highspire": {
+      "area": 214.799,
+      "floors": 4
+   },
+   "Hildebran": {
+      "area": 96.343,
+      "floors": 1
+   },
+   "Hillsdale": {
+      "area": 146.903,
+      "floors": 3
+   },
+   "Hindsboro": {
+      "area": 1581.764,
+      "floors": 4
+   },
+   "Hitchland": {
+      "area": 636.256,
+      "floors": 4
+   },
+   "Hiteman": {
+      "area": 282.095,
+      "floors": 4
+   },
+   "Hobson": {
+      "area": 125.348,
+      "floors": 1
+   },
+   "Holcut": {
+      "area": 1064.191,
+      "floors": 2
+   },
+   "Hometown": {
+      "area": 61.282,
+      "floors": 1
+   },
+   "Hominy": {
+      "area": 143.953,
+      "floors": 3
+   },
+   "Hordville": {
+      "area": 205.509,
+      "floors": 4
+   },
+   "Hornsby": {
+      "area": 307.377,
+      "floors": 3
+   },
+   "Hortense": {
+      "area": 172.84,
+      "floors": 4
+   },
+   "Howie": {
+      "area": 570.3,
+      "floors": 3
+   },
+   "Hurley": {
+      "area": 844.897,
+      "floors": 4
+   },
+   "Idanha": {
+      "area": 40.383,
+      "floors": 1
+   },
+   "Ihlen": {
+      "area": 359.128,
+      "floors": 3
+   },
+   "Imbery": {
+      "area": 425.898,
+      "floors": 3
+   },
+   "Inkom": {
+      "area": 69.349,
+      "floors": 1
+   },
+   "Irvine": {
+      "area": 544.508,
+      "floors": 4
+   },
+   "Islandton": {
+      "area": 280.636,
+      "floors": 1
+   },
+   "Jacobus": {
+      "area": 550.278,
+      "floors": 6
+   },
+   "Jenners": {
+      "area": 590.746,
+      "floors": 3
+   },
+   "Jennie": {
+      "area": 426.996,
+      "floors": 4
+   },
+   "Judith": {
+      "area": 1397.48,
+      "floors": 3
+   },
+   "Kangley": {
+      "area": 557.674,
+      "floors": 3
+   },
+   "Kankakee": {
+      "area": 434.315,
+      "floors": 4
+   },
+   "Kathryn": {
+      "area": 649.14,
+      "floors": 3
+   },
+   "Keiser": {
+      "area": 396.175,
+      "floors": 4
+   },
+   "Kemblesville": {
+      "area": 67.226,
+      "floors": 1
+   },
+   "Kendall": {
+      "area": 303.213,
+      "floors": 1
+   },
+   "Kerrtown": {
+      "area": 124.735,
+      "floors": 1
+   },
+   "Kettle": {
+      "area": 90.146,
+      "floors": 3
+   },
+   "Kevin": {
+      "area": 505.398,
+      "floors": 3
+   },
+   "Keweenaw": {
+      "area": 314.952,
+      "floors": 1
+   },
+   "Kihei": {
+      "area": 323.7,
+      "floors": 3
+   },
+   "Kildare": {
+      "area": 143.509,
+      "floors": 3
+   },
+   "Kinde": {
+      "area": 402.563,
+      "floors": 3
+   },
+   "Kingdom": {
+      "area": 424.793,
+      "floors": 1
+   },
+   "Kingfisher": {
+      "area": 730.717,
+      "floors": 1
+   },
+   "Kinney": {
+      "area": 132.303,
+      "floors": 1
+   },
+   "Kirksville": {
+      "area": 926.364,
+      "floors": 6
+   },
+   "Kirwin": {
+      "area": 851.942,
+      "floors": 3
+   },
+   "Klickitat": {
+      "area": 1618.439,
+      "floors": 6
+   },
+   "Kobuk": {
+      "area": 349.003,
+      "floors": 3
+   },
+   "Kopperl": {
+      "area": 315.216,
+      "floors": 4
+   },
+   "Kremlin": {
+      "area": 53.553,
+      "floors": 1
+   },
+   "Kronborg": {
+      "area": 385.662,
+      "floors": 1
+   },
+   "Lacon": {
+      "area": 3121.66,
+      "floors": 2
+   },
+   "Ladue": {
+      "area": 200.588,
+      "floors": 3
+   },
+   "Lajas": {
+      "area": 184.768,
+      "floors": 3
+   },
+   "Lakeville": {
+      "area": 876.26,
+      "floors": 3
+   },
+   "Landing": {
+      "area": 865.108,
+      "floors": 4
+   },
+   "Lathrup": {
+      "area": 44.215,
+      "floors": 1
+   },
+   "Laupahoehoe": {
+      "area": 926.358,
+      "floors": 5
+   },
+   "Laytonsville": {
+      "area": 58.748,
+      "floors": 1
+   },
+   "Leavittsburg": {
+      "area": 394.078,
+      "floors": 3
+   },
+   "Leilani": {
+      "area": 977.135,
+      "floors": 1
+   },
+   "Lenoir": {
+      "area": 193.152,
+      "floors": 2
+   },
+   "Leonardo": {
+      "area": 610.147,
+      "floors": 4
+   },
+   "Lessley": {
+      "area": 734.48,
+      "floors": 4
+   },
+   "Liddieville": {
+      "area": 336.058,
+      "floors": 1
+   },
+   "Lincolnwood": {
+      "area": 6298.848,
+      "floors": 4
+   },
+   "Lindberg": {
+      "area": 463.687,
+      "floors": 3
+   },
+   "Lindenwood": {
+      "area": 1305.287,
+      "floors": 3
+   },
+   "Lindsborg": {
+      "area": 333.7,
+      "floors": 3
+   },
+   "Lineville": {
+      "area": 359.806,
+      "floors": 3
+   },
+   "Lluveras": {
+      "area": 339.575,
+      "floors": 3
+   },
+   "Losantville": {
+      "area": 1111.809,
+      "floors": 4
+   },
+   "Lovilia": {
+      "area": 122.258,
+      "floors": 3
+   },
+   "Lucan": {
+      "area": 701.684,
+      "floors": 4
+   },
+   "Ludlowville": {
+      "area": 587.497,
+      "floors": 3
+   },
+   "Lynchburg": {
+      "area": 284.04,
+      "floors": 3
+   },
+   "Lynxville": {
+      "area": 79.531,
+      "floors": 1
+   },
+   "Maben": {
+      "area": 37.044,
+      "floors": 1
+   },
+   "MacArthur": {
+      "area": 641.795,
+      "floors": 4
+   },
+   "Macedon": {
+      "area": 571.195,
+      "floors": 3
+   },
+   "Macksville": {
+      "area": 339.319,
+      "floors": 3
+   },
+   "Macland": {
+      "area": 247.187,
+      "floors": 3
+   },
+   "Maguayo": {
+      "area": 550.098,
+      "floors": 1
+   },
+   "Mahtomedi": {
+      "area": 49.658,
+      "floors": 1
+   },
+   "Maida": {
+      "area": 30.097,
+      "floors": 1
+   },
+   "Maiden": {
+      "area": 194.383,
+      "floors": 4
+   },
+   "Maitland": {
+      "area": 168.856,
+      "floors": 1
+   },
+   "Mammoth": {
+      "area": 469.434,
+      "floors": 4
+   },
+   "Manassas": {
+      "area": 510.112,
+      "floors": 3
+   },
+   "Maricopa": {
+      "area": 243.042,
+      "floors": 3
+   },
+   "Markleeville": {
+      "area": 354.146,
+      "floors": 4
+   },
+   "Marksville": {
+      "area": 585.206,
+      "floors": 1
+   },
+   "Marland": {
+      "area": 547.906,
+      "floors": 5
+   },
+   "Marstons": {
+      "area": 1481.287,
+      "floors": 7
+   },
+   "Martinville": {
+      "area": 258.383,
+      "floors": 3
+   },
+   "Maryhill": {
+      "area": 531.583,
+      "floors": 4
+   },
+   "Mashulaville": {
+      "area": 455.396,
+      "floors": 4
+   },
+   "Matoaca": {
+      "area": 57.048,
+      "floors": 1
+   },
+   "Maugansville": {
+      "area": 502.758,
+      "floors": 3
+   },
+   "Maunawili": {
+      "area": 107.755,
+      "floors": 2
+   },
+   "Mayesville": {
+      "area": 85.262,
+      "floors": 1
+   },
+   "Mazomanie": {
+      "area": 599.358,
+      "floors": 3
+   },
+   "McCloud": {
+      "area": 645.828,
+      "floors": 3
+   },
+   "McClure": {
+      "area": 463.599,
+      "floors": 3
+   },
+   "McDade": {
+      "area": 928.005,
+      "floors": 5
+   },
+   "McEwen": {
+      "area": 284.58,
+      "floors": 1
+   },
+   "McKeesport": {
+      "area": 592.516,
+      "floors": 3
+   },
+   "McNary": {
+      "area": 248.132,
+      "floors": 3
+   },
+   "Melstone": {
+      "area": 1049.473,
+      "floors": 3
+   },
+   "Mentasta": {
+      "area": 586.539,
+      "floors": 3
+   },
+   "Mentmore": {
+      "area": 458.149,
+      "floors": 3
+   },
+   "Merchantville": {
+      "area": 243.923,
+      "floors": 1
+   },
+   "Merlin": {
+      "area": 569.168,
+      "floors": 3
+   },
+   "Merom": {
+      "area": 269.431,
+      "floors": 3
+   },
+   "Mesic": {
+      "area": 375.196,
+      "floors": 4
+   },
+   "Micanopy": {
+      "area": 374.441,
+      "floors": 4
+   },
+   "Michiana": {
+      "area": 53.665,
+      "floors": 1
+   },
+   "Mifflinburg": {
+      "area": 230.642,
+      "floors": 4
+   },
+   "Mifflintown": {
+      "area": 165.089,
+      "floors": 2
+   },
+   "Milaca": {
+      "area": 375.791,
+      "floors": 4
+   },
+   "Milford": {
+      "area": 972.814,
+      "floors": 4
+   },
+   "Millbury": {
+      "area": 383.756,
+      "floors": 3
+   },
+   "Moark": {
+      "area": 2287.132,
+      "floors": 5
+   },
+   "Moberly": {
+      "area": 442.52,
+      "floors": 3
+   },
+   "Mobridge": {
+      "area": 106.396,
+      "floors": 1
+   },
+   "Model": {
+      "area": 366.231,
+      "floors": 3
+   },
+   "Mogadore": {
+      "area": 2363.158,
+      "floors": 10
+   },
+   "Mogote": {
+      "area": 375.962,
+      "floors": 3
+   },
+   "Monson": {
+      "area": 188.722,
+      "floors": 3
+   },
+   "Monticello": {
+      "area": 185.89,
+      "floors": 3
+   },
+   "Montreal": {
+      "area": 63.793,
+      "floors": 1
+   },
+   "Moonachie": {
+      "area": 2697.304,
+      "floors": 3
+   },
+   "Morris": {
+      "area": 154.83,
+      "floors": 3
+   },
+   "Mosinee": {
+      "area": 55.911,
+      "floors": 1
+   },
+   "Mosquito": {
+      "area": 419.697,
+      "floors": 3
+   },
+   "Muleshoe": {
+      "area": 1204.837,
+      "floors": 5
+   },
+   "Mullica": {
+      "area": 282.689,
+      "floors": 3
+   },
+   "Munsons": {
+      "area": 234.973,
+      "floors": 3
+   },
+   "Murchison": {
+      "area": 485.544,
+      "floors": 4
+   },
+   "Musicks": {
+      "area": 209.679,
+      "floors": 3
+   },
+   "Natural": {
+      "area": 574.681,
+      "floors": 4
+   },
+   "Neibert": {
+      "area": 578.138,
+      "floors": 3
+   },
+   "Nemacolin": {
+      "area": 544.518,
+      "floors": 4
+   },
+   "Neshkoro": {
+      "area": 789.459,
+      "floors": 3
+   },
+   "Newcomb": {
+      "area": 83.141,
+      "floors": 2
+   },
+   "Newfields": {
+      "area": 514.149,
+      "floors": 5
+   },
+   "Nicut": {
+      "area": 90.831,
+      "floors": 1
+   },
+   "Nimmons": {
+      "area": 792.206,
+      "floors": 3
+   },
+   "Noonday": {
+      "area": 218.453,
+      "floors": 4
+   },
+   "Northgate": {
+      "area": 98.769,
+      "floors": 1
+   },
+   "Norvelt": {
+      "area": 19.028,
+      "floors": 1
+   },
+   "Noxapater": {
+      "area": 308.385,
+      "floors": 4
+   },
+   "Nuevo": {
+      "area": 254.781,
+      "floors": 3
+   },
+   "Ogilvie": {
+      "area": 47.725,
+      "floors": 1
+   },
+   "Ohoopee": {
+      "area": 322.951,
+      "floors": 4
+   },
+   "Okabena": {
+      "area": 804.364,
+      "floors": 3
+   },
+   "Onaga": {
+      "area": 182.294,
+      "floors": 3
+   },
+   "Ooltewah": {
+      "area": 664.17,
+      "floors": 1
+   },
+   "Ophir": {
+      "area": 64.853,
+      "floors": 1
+   },
+   "Orangeburg": {
+      "area": 891.403,
+      "floors": 4
+   },
+   "Orason": {
+      "area": 188.151,
+      "floors": 1
+   },
+   "Oriole": {
+      "area": 360.957,
+      "floors": 3
+   },
+   "Ossipee": {
+      "area": 92.354,
+      "floors": 1
+   },
+   "Ovalo": {
+      "area": 269.365,
+      "floors": 4
+   },
+   "Oyens": {
+      "area": 100.709,
+      "floors": 1
+   },
+   "Pablo": {
+      "area": 37.789,
+      "floors": 1
+   },
+   "Paige": {
+      "area": 612.688,
+      "floors": 3
+   },
+   "Pamelia": {
+      "area": 237.84,
+      "floors": 3
+   },
+   "Parole": {
+      "area": 55.245,
+      "floors": 1
+   },
+   "Pasatiempo": {
+      "area": 159.202,
+      "floors": 1
+   },
+   "Peacock": {
+      "area": 81.688,
+      "floors": 1
+   },
+   "Pearce": {
+      "area": 513.604,
+      "floors": 3
+   },
+   "Peconic": {
+      "area": 494.275,
+      "floors": 4
+   },
+   "Peden": {
+      "area": 68.342,
+      "floors": 1
+   },
+   "Pettigrew": {
+      "area": 161.586,
+      "floors": 1
+   },
+   "Pinesdale": {
+      "area": 1071.716,
+      "floors": 6
+   },
+   "Pittsburg": {
+      "area": 152.529,
+      "floors": 4
+   },
+   "Placida": {
+      "area": 83.857,
+      "floors": 1
+   },
+   "Pleasant": {
+      "area": 162.014,
+      "floors": 1
+   },
+   "Plessis": {
+      "area": 103.245,
+      "floors": 2
+   },
+   "Plumerville": {
+      "area": 553.505,
+      "floors": 3
+   },
+   "Pocasset": {
+      "area": 343.544,
+      "floors": 4
+   },
+   "Pocopson": {
+      "area": 296.255,
+      "floors": 1
+   },
+   "Poipu": {
+      "area": 522.602,
+      "floors": 5
+   },
+   "Pomaria": {
+      "area": 612.16,
+      "floors": 5
+   },
+   "Portal": {
+      "area": 857.078,
+      "floors": 4
+   },
+   "Portola": {
+      "area": 718.033,
+      "floors": 4
+   },
+   "Potosi": {
+      "area": 513.183,
+      "floors": 4
+   },
+   "Potterville": {
+      "area": 427.967,
+      "floors": 4
+   },
+   "Poyen": {
+      "area": 680.296,
+      "floors": 3
+   },
+   "Purple": {
+      "area": 737.666,
+      "floors": 4
+   },
+   "Quantico": {
+      "area": 85.135,
+      "floors": 1
+   },
+   "Rabbit": {
+      "area": 60.857,
+      "floors": 1
+   },
+   "Ranchester": {
+      "area": 741.032,
+      "floors": 4
+   },
+   "Rancocas": {
+      "area": 116.738,
+      "floors": 1
+   },
+   "Random": {
+      "area": 295.808,
+      "floors": 3
+   },
+   "Readsboro": {
+      "area": 439.666,
+      "floors": 4
+   },
+   "Redbank": {
+      "area": 673.551,
+      "floors": 5
+   },
+   "Reserve": {
+      "area": 660.009,
+      "floors": 4
+   },
+   "Retsof": {
+      "area": 499.225,
+      "floors": 4
+   },
+   "Reyno": {
+      "area": 736.104,
+      "floors": 3
+   },
+   "Ribera": {
+      "area": 50.645,
+      "floors": 1
+   },
+   "Roane": {
+      "area": 65.459,
+      "floors": 1
+   },
+   "Rockport": {
+      "area": 208.37,
+      "floors": 3
+   },
+   "Roeville": {
+      "area": 484.984,
+      "floors": 4
+   },
+   "Rogue": {
+      "area": 440.36,
+      "floors": 4
+   },
+   "Rosenberg": {
+      "area": 86.103,
+      "floors": 1
+   },
+   "Rosser": {
+      "area": 29.918,
+      "floors": 1
+   },
+   "Rough": {
+      "area": 518.468,
+      "floors": 3
+   },
+   "Roxboro": {
+      "area": 62.206,
+      "floors": 1
+   },
+   "Ruckersville": {
+      "area": 913.224,
+      "floors": 1
+   },
+   "Rutherford": {
+      "area": 560.797,
+      "floors": 2
+   },
+   "Sagerton": {
+      "area": 391.372,
+      "floors": 3
+   },
+   "Samuels": {
+      "area": 117.083,
+      "floors": 1
+   },
+   "Sanctuary": {
+      "area": 289.285,
+      "floors": 1
+   },
+   "Sands": {
+      "area": 153.132,
+      "floors": 3
+   },
+   "Sarcoxie": {
+      "area": 286.12,
+      "floors": 3
+   },
+   "Sargents": {
+      "area": 5930.231,
+      "floors": 3
+   },
+   "Sasakwa": {
+      "area": 45.35,
+      "floors": 1
+   },
+   "Sawpit": {
+      "area": 77.847,
+      "floors": 1
+   },
+   "Scandinavia": {
+      "area": 531.017,
+      "floors": 3
+   },
+   "Schiller": {
+      "area": 599.407,
+      "floors": 4
+   },
+   "Schoolcraft": {
+      "area": 882.38,
+      "floors": 1
+   },
+   "Scioto": {
+      "area": 512.963,
+      "floors": 5
+   },
+   "Scottsmoor": {
+      "area": 61.099,
+      "floors": 1
+   },
+   "Seatonville": {
+      "area": 2832.57,
+      "floors": 6
+   },
+   "Seeley": {
+      "area": 554.521,
+      "floors": 3
+   },
+   "Seiling": {
+      "area": 1020.102,
+      "floors": 1
+   },
+   "Seward": {
+      "area": 59.1,
+      "floors": 1
+   },
+   "Sharon": {
+      "area": 1398.591,
+      "floors": 6
+   },
+   "Shauck": {
+      "area": 520.761,
+      "floors": 4
+   },
+   "Shelbiana": {
+      "area": 97.743,
+      "floors": 1
+   },
+   "Shelbyville": {
+      "area": 544.749,
+      "floors": 4
+   },
+   "Shellsburg": {
+      "area": 1155.826,
+      "floors": 4
+   },
+   "Sherrill": {
+      "area": 3081.432,
+      "floors": 4
+   },
+   "Shingler": {
+      "area": 105.358,
+      "floors": 1
+   },
+   "Shumway": {
+      "area": 521.75,
+      "floors": 4
+   },
+   "Silas": {
+      "area": 345.962,
+      "floors": 3
+   },
+   "Silerton": {
+      "area": 441.747,
+      "floors": 4
+   },
+   "Silva": {
+      "area": 626.12,
+      "floors": 3
+   },
+   "Siren": {
+      "area": 739.196,
+      "floors": 3
+   },
+   "Sisters": {
+      "area": 94.529,
+      "floors": 2
+   },
+   "Smoketown": {
+      "area": 617.315,
+      "floors": 3
+   },
+   "Sodaville": {
+      "area": 114.409,
+      "floors": 2
+   },
+   "Soldier": {
+      "area": 262.672,
+      "floors": 3
+   },
+   "Sontag": {
+      "area": 680.769,
+      "floors": 4
+   },
+   "Southfield": {
+      "area": 797.823,
+      "floors": 5
+   },
+   "Spencerville": {
+      "area": 72.589,
+      "floors": 1
+   },
+   "Spotswood": {
+      "area": 292.725,
+      "floors": 3
+   },
+   "Spread": {
+      "area": 760.574,
+      "floors": 3
+   },
+   "Springerville": {
+      "area": 291.831,
+      "floors": 3
+   },
+   "Springhill": {
+      "area": 549.54,
+      "floors": 4
+   },
+   "Stanleyville": {
+      "area": 283.356,
+      "floors": 3
+   },
+   "Starks": {
+      "area": 353.106,
+      "floors": 3
+   },
+   "Stigler": {
+      "area": 3134.479,
+      "floors": 2
+   },
+   "Stilwell": {
+      "area": 358.399,
+      "floors": 3
+   },
+   "Stockertown": {
+      "area": 844.615,
+      "floors": 4
+   },
+   "Stockman": {
+      "area": 740.969,
+      "floors": 4
+   },
+   "Stockwell": {
+      "area": 629.624,
+      "floors": 3
+   },
+   "Stokes": {
+      "area": 276.521,
+      "floors": 3
+   },
+   "Sugarville": {
+      "area": 564.827,
+      "floors": 3
+   },
+   "Sultan": {
+      "area": 357.887,
+      "floors": 1
+   },
+   "Sumas": {
+      "area": 45.342,
+      "floors": 1
+   },
+   "Sundown": {
+      "area": 165.31,
+      "floors": 1
+   },
+   "Sunshine": {
+      "area": 1166.008,
+      "floors": 5
+   },
+   "Superior": {
+      "area": 220.462,
+      "floors": 1
+   },
+   "Sussex": {
+      "area": 405.669,
+      "floors": 3
+   },
+   "Sweatman": {
+      "area": 108.333,
+      "floors": 1
+   },
+   "Swisshome": {
+      "area": 377.373,
+      "floors": 4
+   },
+   "Swormville": {
+      "area": 66.793,
+      "floors": 1
+   },
+   "Tallmadge": {
+      "area": 56.185,
+      "floors": 1
+   },
+   "Tansboro": {
+      "area": 378.932,
+      "floors": 3
+   },
+   "Tariffville": {
+      "area": 160.382,
+      "floors": 1
+   },
+   "Terrell": {
+      "area": 694.299,
+      "floors": 1
+   },
+   "Texasville": {
+      "area": 355.121,
+      "floors": 3
+   },
+   "Thrall": {
+      "area": 1106.305,
+      "floors": 3
+   },
+   "Tilghmanton": {
+      "area": 605.518,
+      "floors": 4
+   },
+   "Tillman": {
+      "area": 1387.564,
+      "floors": 1
+   },
+   "Timberon": {
+      "area": 296.948,
+      "floors": 4
+   },
+   "Tippecanoe": {
+      "area": 154.358,
+      "floors": 2
+   },
+   "Tokeland": {
+      "area": 315.287,
+      "floors": 3
+   },
+   "Tolstoy": {
+      "area": 543.053,
+      "floors": 3
+   },
+   "Tomales": {
+      "area": 415.188,
+      "floors": 3
+   },
+   "Tomkins": {
+      "area": 850.745,
+      "floors": 3
+   },
+   "Torrington": {
+      "area": 781.388,
+      "floors": 4
+   },
+   "Touhy": {
+      "area": 668.494,
+      "floors": 4
+   },
+   "Tradewinds": {
+      "area": 112.227,
+      "floors": 1
+   },
+   "Trail": {
+      "area": 535.171,
+      "floors": 4
+   },
+   "Traver": {
+      "area": 390.532,
+      "floors": 3
+   },
+   "Tyler": {
+      "area": 216.845,
+      "floors": 3
+   },
+   "Tysons": {
+      "area": 712.519,
+      "floors": 3
+   },
+   "Umpqua": {
+      "area": 400.83,
+      "floors": 3
+   },
+   "Uncertain": {
+      "area": 150.664,
+      "floors": 1
+   },
+   "Upham": {
+      "area": 1840.942,
+      "floors": 6
+   },
+   "Uvalda": {
+      "area": 616.935,
+      "floors": 5
+   },
+   "Vacherie": {
+      "area": 455.855,
+      "floors": 3
+   },
+   "Vails": {
+      "area": 97.904,
+      "floors": 2
+   },
+   "Victorville": {
+      "area": 455.395,
+      "floors": 4
+   },
+   "Voorhees": {
+      "area": 269.619,
+      "floors": 1
+   },
+   "Waimea": {
+      "area": 684.211,
+      "floors": 4
+   },
+   "Wainscott": {
+      "area": 635.302,
+      "floors": 3
+   },
+   "Waipahu": {
+      "area": 217.547,
+      "floors": 4
+   },
+   "Wakeman": {
+      "area": 420.228,
+      "floors": 4
+   },
+   "Waldenburg": {
+      "area": 289.497,
+      "floors": 1
+   },
+   "Wando": {
+      "area": 75.131,
+      "floors": 1
+   },
+   "Wappingers": {
+      "area": 905.911,
+      "floors": 3
+   },
+   "Warrenville": {
+      "area": 394.612,
+      "floors": 4
+   },
+   "Wattsville": {
+      "area": 128.299,
+      "floors": 1
+   },
+   "Waucousta": {
+      "area": 372.016,
+      "floors": 4
+   },
+   "Waukeenah": {
+      "area": 215.282,
+      "floors": 4
+   },
+   "Webster": {
+      "area": 788.23,
+      "floors": 1
+   },
+   "Weleetka": {
+      "area": 1357.157,
+      "floors": 4
+   },
+   "Wells": {
+      "area": 120.708,
+      "floors": 1
+   },
+   "Wesley": {
+      "area": 477.22,
+      "floors": 3
+   },
+   "Westerville": {
+      "area": 359.709,
+      "floors": 3
+   },
+   "Westfield": {
+      "area": 474.859,
+      "floors": 3
+   },
+   "Whiteriver": {
+      "area": 331.766,
+      "floors": 5
+   },
+   "Whitethorn": {
+      "area": 108.069,
+      "floors": 1
+   },
+   "Wiconisco": {
+      "area": 736.625,
+      "floors": 5
+   },
+   "Wilbraham": {
+      "area": 75.49,
+      "floors": 1
+   },
+   "Wilkesboro": {
+      "area": 734.661,
+      "floors": 4
+   },
+   "Wilkinsburg": {
+      "area": 518.876,
+      "floors": 3
+   },
+   "Willow": {
+      "area": 662.264,
+      "floors": 3
+   },
+   "Wilseyville": {
+      "area": 338.51,
+      "floors": 4
+   },
+   "Windhorst": {
+      "area": 88.42,
+      "floors": 1
+   },
+   "Winfield": {
+      "area": 848.274,
+      "floors": 5
+   },
+   "Winooski": {
+      "area": 1028.84,
+      "floors": 5
+   },
+   "Winthrop": {
+      "area": 419.476,
+      "floors": 4
+   },
+   "Woodbine": {
+      "area": 984.751,
+      "floors": 4
+   },
+   "Woonsocket": {
+      "area": 82.938,
+      "floors": 1
+   },
+   "Wyatt": {
+      "area": 716.924,
+      "floors": 3
+   },
+   "Wyldwood": {
+      "area": 191.908,
+      "floors": 4
+   },
+   "Yadkinville": {
+      "area": 504.718,
+      "floors": 3
+   },
+   "Yankeetown": {
+      "area": 842.17,
+      "floors": 3
+   },
+   "Yscloskey": {
+      "area": 370.472,
+      "floors": 3
+   }
+}

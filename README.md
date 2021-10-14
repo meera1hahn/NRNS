@@ -34,15 +34,14 @@ We recommend downloading the test scenes and running the example script as descr
 git clone git@github.com:meera1hahn/NRNS.git
 cd NRNS
 python -m pip install -r requirements.txt
+python download_aux.py
 ```
 
-### Download Data
+### Download Scene Data
 
-Like Habitat-Lab, we expect a `data` folder (or symlink) with a particular structure in the top-level directory of this project. We evaluate our agents on Matterport3D (MP3D) and Gibson scene reconstructions.
+Like Habitat-Lab, we expect a `data` folder (or symlink) with a particular structure in the top-level directory of this project. Running the `download_aux.py` script will download the pretrained models but you will still need to download the scene data. We evaluate our agents on Matterport3D (MP3D) and Gibson scene reconstructions. Instructions on how to download RealEstate10k can be found [here](https://google.github.io/realestate10k/download.html).
 
-
-
-#### Image-Nav Test Episodes
+#### Image-Nav Test Episodes 
 The image-nav test epsiodes used in this paper for MP3D and Gibson can be found [here.](https://meerahahn.github.io/nrns/data) These were used to test all baselines and NRNS.
 
 
@@ -62,6 +61,24 @@ Extract this data to `data/scene_datasets/mp3d` such that it has the form `data/
 The official Gibson dataset can be accessed on their [project webpage](https://github.com/StanfordVL/GibsonEnv/blob/master/gibson/data/README.md). Please follow the link to download the Habitat Simulator compatible data. The link will first take you to the license agreement and then to the data. We follow the standard train/val/test splits. 
 
 
+### Running pre-trained models
+Look at the run scripts in src/image_nav/run_scripts/ for examples of how to run the model.
+
+Difficulty settings options are: easy, medium, hard
+
+Path Type setting options are: straight, curved
+
+To run NRNS on gibson without noise for example on the straight setting with a medium difficulty
+
+```
+cd src/image_nav/
+python -W ignore run.py \
+    --dataset 'gibson' \
+    --path_type 'straight' \
+    --difficulty 'medium' \
+```
+
+
 ## Citing
 
 If you use NRNS in your research, please cite the following [paper](https://arxiv.org/abs/2004.02857):
@@ -70,7 +87,7 @@ If you use NRNS in your research, please cite the following [paper](https://arxi
 @inproceedings{hahn_nrns_2021,
   title={No RL, No Simulation: Learning to Navigate without Navigating},
   author={Meera Hahn and Devendra Chaplot and Mustafa Mukadam and James M. Rehg and Shubham Tulsiani and Abhinav Gupta},
-  booktitle={Arxiv},
+  booktitle={Neurips},
   year={2021}
  }
 ```
