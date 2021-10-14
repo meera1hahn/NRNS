@@ -32,6 +32,12 @@ GIBSON_MODELS_LINKS = [
         "https://drive.google.com/uc?id=1oq_7baTERTVHV9guPlxVWrtH-UsFtmRe",
     )
 ]
+MP3D_MODELS_LINKS = [
+    (
+        "models/mp3d_models.zip",
+        "https://drive.google.com/uc?id=1rAhXFaHcNpX9mTzw5AxZadgFkGnEG6ON",
+    )
+]
 
 
 def _download_drive_url_to_file(url, path, _iszipfile=False):
@@ -67,4 +73,6 @@ if __name__ == "__main__":
     for path, url in MP3D_TEST_LINKS:
         _download_drive_url_to_file(url, path, _iszipfile=True)
     for path, url in GIBSON_MODELS_LINKS:
+        _download_drive_url_to_file(url, path, _iszipfile=True)
+    for path, url in MP3D_MODELS_LINKS:
         _download_drive_url_to_file(url, path, _iszipfile=True)
