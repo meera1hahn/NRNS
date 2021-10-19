@@ -1,5 +1,5 @@
 # No RL No Simulation (NRNS)
-Official implementation of the NRNS paper: No RL, No Simulation: Learning to Navigate without Navigating
+Official implementation of the NRNS [paper](https://arxiv.org/abs/2110.09470): No RL, No Simulation: Learning to Navigate without Navigating
 
 NRNS is a heriarchical modular approach to image goal navigation that uses a topological map and distance estimator to navigate and self-localize. Distance function and target prediction function are learnt over passive video trajectories gathered from Mp3D and Gibson.
 
@@ -81,7 +81,7 @@ python -W ignore run.py \
 
 ## Citing
 
-If you use NRNS in your research, please cite the following [paper](https://arxiv.org/abs/2004.02857):
+If you use NRNS in your research, please cite the following [paper](https://arxiv.org/abs/2110.09470):
 
 ```tex
 @inproceedings{hahn_nrns_2021,
