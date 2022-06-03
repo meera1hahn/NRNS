@@ -162,18 +162,6 @@ def backtrack(agent, closest_connected, visualizer):
         print("ERROR: local navigation through error")
         return None, None
 
-    angle_connected = round(
-        diff_rotation_signed(
-            quaternion.from_float_array(curr_rot),
-            quaternion.from_float_array(agent.node_rots[closest_connected].numpy()),
-        ).item()
-    )
-    turns = abs(round(angle_connected / turn_angle))
-    for _ in range(turns):
-        if angle_connected >= 0:
-            obs, curr_pose, curr_rot = agent.take_step("left")
-        else:
-            obs, curr_pose, curr_rot = agent.take_step("right")
 
     closest_pose = curr_pose
     closest_rot = quaternion.from_float_array(curr_rot)

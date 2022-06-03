@@ -91,11 +91,10 @@ def add_ghosts(agent, ghost_nodes):
         node_rotation = quaternion.as_float_array(
             quaternion.from_rotation_matrix(node[0:3, 0:3])
         )
-        if agent.args.dataset == "mp3d":
-            # snap to mesh cause of so many holes floor in mp3d, can be removed
-            navigable, node[0:3, 3] = testPoint(node[0:3, 3], agent)
-            if not navigable:
-                continue
+        # snap to mesh cause of so many holes floor in mp3d, can be removed
+        navigable, node[0:3, 3] = testPoint(node[0:3, 3], agent)
+        if not navigable:
+            continue
         localized, location = agent.localize(node[0:3, 3], node_rotation)
         if localized:
             addEdge.append(location)
