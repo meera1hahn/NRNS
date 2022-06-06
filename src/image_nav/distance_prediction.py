@@ -45,11 +45,8 @@ def gather_graph(agent):
 def predict_distances(agent):
     if agent.use_gt_distances:
         pred_dists = gt_distances(agent)
-        total_cost = add_travel_distance(agent, pred_dists, rot_thres=0.25)
-        next_node = agent.unexplored_nodes[total_cost.argmin()]
         pred_dists = np.asarray(pred_dists)
-        if total_cost[total_cost.argmin()] - pred_dists[pred_dists.argmin()] >= 10:
-            next_node = agent.unexplored_nodes[pred_dists.argmin()]
+        next_node = agent.unexplored_nodes[pred_dists.argmin()]
     else:
         with torch.no_grad():
             geo_data, ue_nodes = gather_graph(agent)
