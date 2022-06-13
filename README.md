@@ -61,7 +61,7 @@ Extract this data to `data/scene_datasets/mp3d` such that it has the form `data/
 The official Gibson dataset can be accessed on their [project webpage](https://github.com/StanfordVL/GibsonEnv/blob/master/gibson/data/README.md). Please follow the link to download the Habitat Simulator compatible data. The link will first take you to the license agreement and then to the data. We follow the standard train/val/test splits. 
 
 
-### Running pre-trained models
+## Running pre-trained models
 Look at the run scripts in src/image_nav/run_scripts/ for examples of how to run the model.
 
 Difficulty settings options are: easy, medium, hard
@@ -78,6 +78,30 @@ python -W ignore run.py \
     --difficulty 'medium' \
 ```
 
+### Scores
+Expected scores for NRNS from running this code without noise
+
+#### Gibson 
+
+|Path Type |Success|SPL|
+|------|--|--|
+| Easy - Straight   | 0.7010 | 0.6271
+| Medium - Straight | 0.5070 | 0.4153 
+| Hard - Straight   | 0.2122 | 0.1547
+| Easy - Curved     | 0.3140 | 0.1070
+| Medium - Curved | 0.2200 | 0.0829
+| Hard - Curved   | 0.1190 | 0.0544
+
+#### Matterport
+
+|Path Type|Success|SPL|
+|------|--|--|
+| Easy - Straight   | 0.5690 | 0.4926
+| Medium - Straight | 0.3370 | 0.2717
+| Hard - Straight   | 0.1960 | 0.1444
+| Easy - Curved     | 0.2310 | 0.1086
+| Medium - Curved | 0.1510 | 0.0738 
+| Hard - Curved   | 0.0840 | 0.0414
 
 ## Citing
 
